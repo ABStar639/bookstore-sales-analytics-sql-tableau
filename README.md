@@ -129,7 +129,7 @@ The Tableau dashboard provides a visual overview of:
 
 View the live Tableau dashboard:
 
-[PASTE_TABLEAU_PUBLIC_LINK_HERE](https://public.tableau.com/views/BookStoreSalesAnalyticsDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Dashboard](https://public.tableau.com/views/BookStoreSalesAnalyticsDashboard/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ---
 
