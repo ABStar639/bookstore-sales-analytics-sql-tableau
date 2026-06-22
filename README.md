@@ -188,4 +188,4 @@ bookstore-sales-analytics-sql-tableau
 
 Abhishek Bhuniya
 
-Business Analyst | SQL | Tableau | Data Analytics | Strategy & Consulting
+Business Analyst
